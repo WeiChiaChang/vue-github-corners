@@ -1,13 +1,13 @@
-# vue-github-corners
+# vue2-github-corners
 
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 
-A simple binding wrapper for github-corners in Vue
+A simple binding wrapper for github-corners in Vue2
 
 ## Installation
 
 ```
-npm install --save vue-github-corners
+npm install --save vue2-github-corners
 ```
 
 ## Usage
@@ -21,21 +21,13 @@ For standalone version
 For vue-cli user
 
 ```javascript
-import VueGithubCorners from 'vue-github-corners'
+import VueGithubCorners from 'vue2-github-corners'
 
 Vue.use(VueGithubCorners)
 ```
 
 ## Sample
 
-Install all the components:
-
-```javascript
-import Vue from 'vue'
-import VueGithubCorners from 'vue-github-corners'
-
-Vue.use(VueGithubCorners)
-```
 
 ## Demo
 
