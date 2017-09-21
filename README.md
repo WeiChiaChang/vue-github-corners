@@ -10,6 +10,10 @@ A simple binding wrapper for [github-corners](https://github.com/tholman/github-
   </a>
 </p>
 
+## Demo
+
+[Show me the code, or demo it](https://git.io/v5jH6)
+
 ## Installation
 
 ```
@@ -55,10 +59,6 @@ export default {
   }
 }
 ```
-
-## Demo
-
-
 
 ---
 
