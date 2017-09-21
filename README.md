@@ -28,6 +28,24 @@ Vue.use(VueGithubCorners)
 
 ## Sample
 
+```javascript
+<template>
+  <div id="app">
+    <VueGithubCorners :repoUrl="repoUrl" :catColor="catColor" :bgColor="bgColor"></VueGithubCorners>
+  </div>
+</template>
+
+export default {
+  ...
+  data () {
+    return {
+      repoUrl: "https://github.com/weichiachang/vue-github-corners",
+      catColor: "#ffffff",
+      bgColor: "#151513",
+    }
+  }
+}
+```
 
 ## Demo
 

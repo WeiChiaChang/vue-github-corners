@@ -2,7 +2,7 @@ import VueGithubCorners from './components/VueGithubCorners.vue'
 
 // Install the components
 export function install (Vue) {
-  Vue.component('vueGithubCorners', VueGithubCorners)
+  Vue.component('VueGithubCorners', VueGithubCorners)
   /* -- Add more components here -- */
 }
 
