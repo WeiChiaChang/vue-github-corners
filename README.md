@@ -21,9 +21,10 @@ For standalone version
 For vue-cli user
 
 ```javascript
-import VueGithubCorners from 'vue2-github-corners'
+import { VueGithubCorners } from 'vue2-github-corners'
 
-Vue.use(VueGithubCorners)
+Vue.component('VueGithubCorners', VueGithubCorners)
+
 ```
 
 ## Sample
