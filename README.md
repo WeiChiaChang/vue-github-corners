@@ -4,6 +4,12 @@
 
 A simple binding wrapper for [github-corners](https://github.com/tholman/github-corners) in Vue2
 
+<p align="center">
+  <a target="_blank" href="https://github.com/WeiChiaChang/vue-github-corners">
+    <img alt="vue2-github-corners" src="https://i.imgur.com/yW06MbJ.gif">
+  </a>
+</p>
+
 ## Installation
 
 ```
