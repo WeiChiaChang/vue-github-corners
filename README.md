@@ -46,6 +46,8 @@ export default {
   ...
   data () {
     return {
+      // Replace repoUrl, catColor, bgColor setting as you want.
+      // If default is what you like, just don't use related key-value pair and ignore it.
       repoUrl: "https://github.com/weichiachang/vue-github-corners",
       catColor: "#ffffff",
       bgColor: "#151513",
